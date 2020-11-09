@@ -57,7 +57,7 @@ var updateClock = function()
   
 
   var timeEventJS = document.getElementById("timeEvent");
-  var lolcatImageJS = document.getElementById('lolcatImage');
+  
   
   if (time == partytime)
   {
