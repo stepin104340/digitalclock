@@ -5,18 +5,6 @@ var naptime = lunchtime + 2;
 var partytime;
 var evening = 18;
 
-class digitalclock
-{
-constructor(partytime,wakeuptime,lunchtime,naptime,time)
- {
- 
-this.partytime = partytime;
-this.wakeuptime = wakeuptime;
-this.lunchtime = lunchtime;
-this.naptime = naptime;
-this.time = time ;
- }
- 
 }
 
 // Getting it to show the current time on the page
